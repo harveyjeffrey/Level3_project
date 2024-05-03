@@ -9,4 +9,4 @@ You may need to install packages in R, but these are all listed on the top of th
 
 All graphs will be created as .svg file (these are vector files so better scalability) in a folder ./plots
 
-Becuase ggplot does not *yet* work with dispRity, you will have to create a separate.csv file that contains the disparity data (disparity_data.csv)
+Becuase ggplot does not *yet* work with dispRity, you will have to create a separate.csv file that contains the disparity data (disparity_data.csv) in order to create the graph in lines 696 - 716
