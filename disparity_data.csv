@@ -1,0 +1,10 @@
+﻿subset,diet,median,min,lower_quartile,upper_quartile,max
+all,carnivore,0.09,0.072,0.083,0.096,0.105
+all,generalist,0.042,0.02,0.033,0.047,0.059
+all,insectivore,0.045,0.021,0.038,0.053,0.066
+jaw,carnivore,0.072,0.049,0.065,0.079,0.094
+jaw,generalist,0.026,0.006,0.018,0.038,0.058
+jaw,insectivore,0.032,0.003,0.021,0.046,0.066
+basocranium,carnivore,0.197,0.161,0.183,0.209,0.228
+basocranium,generalist,0.124,0.063,0.098,0.15,0.197
+basocranium,insectivore,0.157,0.094,0.136,0.178,0.211
